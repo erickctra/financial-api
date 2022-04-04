@@ -13,8 +13,8 @@ The following tools were used in building the project:
 
 - [X] Create an account
 - [X] Fetch the client's bank statement.
-- [ ] Make a bank deposit.
-- [ ] Make a bank withdrawal.
+- [X] Make a bank deposit.
+- [X] Make a bank withdraw.
 - [ ] Search bank statement by date.
 - [ ] Update account details.
 - [ ] Get account details.
