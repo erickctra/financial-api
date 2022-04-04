@@ -18,4 +18,5 @@ The following tools were used in building the project:
 - [X] Search bank statement by date.
 - [X] Update account details.
 - [X] Get account details.
-- [ ] Delete account.
+- [X] Delete account.
+- [X] Get balance
