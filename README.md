@@ -15,7 +15,7 @@ The following tools were used in building the project:
 - [X] Fetch the client's bank statement.
 - [X] Make a bank deposit.
 - [X] Make a bank withdraw.
-- [ ] Search bank statement by date.
-- [ ] Update account details.
-- [ ] Get account details.
+- [X] Search bank statement by date.
+- [X] Update account details.
+- [X] Get account details.
 - [ ] Delete account.
